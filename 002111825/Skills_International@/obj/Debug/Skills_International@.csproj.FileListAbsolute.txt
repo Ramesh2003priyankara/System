@@ -1,0 +1,211 @@
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\obj\Debug\Skills_International@.csproj.AssemblyReference.cache
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\obj\Debug\Skills_International_.Form1.resources
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\obj\Debug\Skills_International_.Properties.Resources.resources
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\obj\Debug\Skills_International_.Registration_Form2.resources
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\obj\Debug\Skills_International@.csproj.GenerateResource.cache
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\obj\Debug\Skills_International@.csproj.CoreCompileInputs.cache
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\bin\Debug\Skills_International@.exe.config
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\bin\Debug\Skills_International@.exe
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\bin\Debug\Skills_International@.pdb
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\obj\Debug\Skills_International@.exe
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\obj\Debug\Skills_International@.pdb
+F:\Skills_International@\bin\Debug\Skills_International@.exe.config
+F:\Skills_International@\obj\Debug\Skills_International@.exe
+F:\Skills_International@\obj\Debug\Skills_International@.pdb
+F:\Skills_International@\bin\Debug\Skills_International@.exe
+F:\Skills_International@\bin\Debug\Skills_International@.pdb
+F:\Skills_International@\bin\Debug\mscorlib.dll
+F:\Skills_International@\bin\Debug\System.Net.Http.dll
+F:\Skills_International@\bin\Debug\System.Net.Http.xml
+F:\Skills_International@\bin\Debug\normidna.nlp
+F:\Skills_International@\bin\Debug\normnfc.nlp
+F:\Skills_International@\bin\Debug\normnfd.nlp
+F:\Skills_International@\bin\Debug\normnfkc.nlp
+F:\Skills_International@\bin\Debug\normnfkd.nlp
+F:\Skills_International@\obj\Debug\Skills_International@.csprojResolveAssemblyReference.cache
+F:\Skills_International@\obj\Debug\Skills_International_.Form1.resources
+F:\Skills_International@\obj\Debug\Skills_International_.Properties.Resources.resources
+F:\Skills_International@\obj\Debug\Skills_International_.Registration_Form2.resources
+F:\Skills_International@\obj\Debug\Skills_International@.csproj.GenerateResource.Cache
+F:\Yunus Final\Skills_International@\bin\Debug\Skills_International@.exe.config
+F:\Yunus Final\Skills_International@\obj\Debug\Skills_International@.exe
+F:\Yunus Final\Skills_International@\obj\Debug\Skills_International@.pdb
+F:\Yunus Final\Skills_International@\bin\Debug\Skills_International@.exe
+F:\Yunus Final\Skills_International@\bin\Debug\Skills_International@.pdb
+F:\Yunus Final\Skills_International@\obj\Debug\Skills_International@.csproj.AssemblyReference.cache
+F:\Yunus Final\Skills_International@\obj\Debug\Skills_International_.Form1.resources
+F:\Yunus Final\Skills_International@\obj\Debug\Skills_International_.Properties.Resources.resources
+F:\Yunus Final\Skills_International@\obj\Debug\Skills_International_.Registration_Form2.resources
+F:\Yunus Final\Skills_International@\obj\Debug\Skills_International@.csproj.GenerateResource.cache
+F:\Yunus Final\Skills_International@\obj\Debug\Skills_International@.csproj.CoreCompileInputs.cache
+E:\My Documents\Yunus Final Project Ditec 193\Skills_International@\bin\Debug\Skills_International@.exe.config
+E:\My Documents\Yunus Final Project Ditec 193\Skills_International@\bin\Debug\Skills_International@.exe
+E:\My Documents\Yunus Final Project Ditec 193\Skills_International@\bin\Debug\Skills_International@.pdb
+E:\My Documents\Yunus Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.AssemblyReference.cache
+E:\My Documents\Yunus Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International_.Form1.resources
+E:\My Documents\Yunus Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International_.Properties.Resources.resources
+E:\My Documents\Yunus Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International_.Registration_Form2.resources
+E:\My Documents\Yunus Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.GenerateResource.cache
+E:\My Documents\Yunus Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.CoreCompileInputs.cache
+E:\My Documents\Yunus Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.exe
+E:\My Documents\Yunus Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.pdb
+F:\Yunus (0016158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.AssemblyReference.cache
+F:\Yunus (0016158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International_.Form1.resources
+F:\Yunus (0016158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International_.Properties.Resources.resources
+F:\Yunus (0016158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International_.Registration_Form2.resources
+F:\Yunus (0016158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.GenerateResource.cache
+F:\Yunus (0016158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.CoreCompileInputs.cache
+F:\Yunus (0016158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.exe
+F:\Yunus (0016158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.pdb
+F:\Yunus (0016158) Final Project Ditec 193\Skills_International@\bin\Debug\Skills_International@.exe.config
+F:\Yunus (0016158) Final Project Ditec 193\Skills_International@\bin\Debug\Skills_International@.exe
+F:\Yunus (0016158) Final Project Ditec 193\Skills_International@\bin\Debug\Skills_International@.pdb
+E:\Yunus (0016158) Final Project Ditec 193\Skills_International@\bin\Debug\Skills_International@.exe.config
+E:\Yunus (0016158) Final Project Ditec 193\Skills_International@\bin\Debug\Skills_International@.exe
+E:\Yunus (0016158) Final Project Ditec 193\Skills_International@\bin\Debug\Skills_International@.pdb
+E:\Yunus (0016158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.AssemblyReference.cache
+E:\Yunus (0016158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.SuggestedBindingRedirects.cache
+E:\Yunus (0016158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International_.Form1.resources
+E:\Yunus (0016158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International_.Properties.Resources.resources
+E:\Yunus (0016158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International_.Registration_Form2.resources
+E:\Yunus (0016158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.GenerateResource.cache
+E:\Yunus (0016158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.CoreCompileInputs.cache
+E:\Yunus (0016158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.exe
+E:\Yunus (0016158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.pdb
+E:\Yunus (0016158) Final Project Ditec 193\Skills_International@\bin\Debug\Yunus 00163158.mdf
+E:\Yunus (0016158) Final Project Ditec 193\Skills_International@\bin\Debug\Yunus 00163158_log.ldf
+E:\Yunus (00163158) Final Project Ditec 193\Skills_International@\bin\Debug\Yunus 00163158.mdf
+E:\Yunus (00163158) Final Project Ditec 193\Skills_International@\bin\Debug\Yunus 00163158_log.ldf
+E:\Yunus (00163158) Final Project Ditec 193\Skills_International@\bin\Debug\Skills_International@.exe.config
+E:\Yunus (00163158) Final Project Ditec 193\Skills_International@\bin\Debug\Skills_International@.exe
+E:\Yunus (00163158) Final Project Ditec 193\Skills_International@\bin\Debug\Skills_International@.pdb
+E:\Yunus (00163158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.AssemblyReference.cache
+E:\Yunus (00163158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.SuggestedBindingRedirects.cache
+E:\Yunus (00163158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International_.Form1.resources
+E:\Yunus (00163158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International_.Properties.Resources.resources
+E:\Yunus (00163158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International_.Registration_Form2.resources
+E:\Yunus (00163158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.GenerateResource.cache
+E:\Yunus (00163158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.CoreCompileInputs.cache
+E:\Yunus (00163158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.exe
+E:\Yunus (00163158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.pdb
+C:\Users\Student\Desktop\Yunus (00163158) Final Project Ditec 193\Skills_International@\bin\Debug\Yunus 00163158.mdf
+C:\Users\Student\Desktop\Yunus (00163158) Final Project Ditec 193\Skills_International@\bin\Debug\Yunus 00163158_log.ldf
+C:\Users\Student\Desktop\Yunus (00163158) Final Project Ditec 193\Skills_International@\bin\Debug\Skills_International@.exe.config
+C:\Users\Student\Desktop\Yunus (00163158) Final Project Ditec 193\Skills_International@\bin\Debug\Skills_International@.exe
+C:\Users\Student\Desktop\Yunus (00163158) Final Project Ditec 193\Skills_International@\bin\Debug\Skills_International@.pdb
+C:\Users\Student\Desktop\Yunus (00163158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Yunus (00163158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\Yunus (00163158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International_.Form1.resources
+C:\Users\Student\Desktop\Yunus (00163158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International_.Properties.Resources.resources
+C:\Users\Student\Desktop\Yunus (00163158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International_.Registration_Form2.resources
+C:\Users\Student\Desktop\Yunus (00163158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Yunus (00163158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Yunus (00163158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.exe
+C:\Users\Student\Desktop\Yunus (00163158) Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.pdb
+C:\Users\Student\Desktop\Final Project Ditec 193\Skills_International@\bin\Debug\Skills.mdf
+C:\Users\Student\Desktop\Final Project Ditec 193\Skills_International@\bin\Debug\Skills_log.ldf
+C:\Users\Student\Desktop\Final Project Ditec 193\Skills_International@\bin\Debug\Skills_International@.exe.config
+C:\Users\Student\Desktop\Final Project Ditec 193\Skills_International@\bin\Debug\Skills_International@.exe
+C:\Users\Student\Desktop\Final Project Ditec 193\Skills_International@\bin\Debug\Skills_International@.pdb
+C:\Users\Student\Desktop\Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International_.Form1.resources
+C:\Users\Student\Desktop\Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International_.Properties.Resources.resources
+C:\Users\Student\Desktop\Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International_.Registration_Form2.resources
+C:\Users\Student\Desktop\Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.exe
+C:\Users\Student\Desktop\Final Project Ditec 193\Skills_International@\obj\Debug\Skills_International@.pdb
+C:\Users\Student\Desktop\Final Project - Ishan\Skills_International@\bin\Debug\Skills.mdf
+C:\Users\Student\Desktop\Final Project - Ishan\Skills_International@\bin\Debug\Skills_log.ldf
+C:\Users\Student\Desktop\Final Project - Ishan\Skills_International@\bin\Debug\Skills_International@.exe.config
+C:\Users\Student\Desktop\Final Project - Ishan\Skills_International@\bin\Debug\Skills_International@.exe
+C:\Users\Student\Desktop\Final Project - Ishan\Skills_International@\bin\Debug\Skills_International@.pdb
+C:\Users\Student\Desktop\Final Project - Ishan\Skills_International@\obj\Debug\Skills_International@.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Final Project - Ishan\Skills_International@\obj\Debug\Skills_International@.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\Final Project - Ishan\Skills_International@\obj\Debug\Skills_International_.Form1.resources
+C:\Users\Student\Desktop\Final Project - Ishan\Skills_International@\obj\Debug\Skills_International_.Properties.Resources.resources
+C:\Users\Student\Desktop\Final Project - Ishan\Skills_International@\obj\Debug\Skills_International_.Registration_Form2.resources
+C:\Users\Student\Desktop\Final Project - Ishan\Skills_International@\obj\Debug\Skills_International@.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Final Project - Ishan\Skills_International@\obj\Debug\Skills_International@.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Final Project - Ishan\Skills_International@\obj\Debug\Skills_International@.exe
+C:\Users\Student\Desktop\Final Project - Ishan\Skills_International@\obj\Debug\Skills_International@.pdb
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ishan\Skills_International@\bin\Debug\Skills.mdf
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ishan\Skills_International@\bin\Debug\Skills_log.ldf
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ishan\Skills_International@\bin\Debug\Skills_International@.exe.config
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ishan\Skills_International@\bin\Debug\Skills_International@.exe
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ishan\Skills_International@\bin\Debug\Skills_International@.pdb
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ishan\Skills_International@\obj\Debug\Skills_International@.csproj.AssemblyReference.cache
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ishan\Skills_International@\obj\Debug\Skills_International_.Form1.resources
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ishan\Skills_International@\obj\Debug\Skills_International_.Properties.Resources.resources
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ishan\Skills_International@\obj\Debug\Skills_International_.Registration_Form2.resources
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ishan\Skills_International@\obj\Debug\Skills_International@.csproj.GenerateResource.cache
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ishan\Skills_International@\obj\Debug\Skills_International@.csproj.CoreCompileInputs.cache
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ishan\Skills_International@\obj\Debug\Skills_International@.exe
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ishan\Skills_International@\obj\Debug\Skills_International@.pdb
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ramesh\Skills_International@\bin\Debug\Skills_International@.exe.config
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ramesh\Skills_International@\bin\Debug\Skills_International@.exe
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ramesh\Skills_International@\bin\Debug\Skills_International@.pdb
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ramesh\Skills_International@\obj\Debug\Skills_International@.csproj.AssemblyReference.cache
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ramesh\Skills_International@\obj\Debug\Skills_International_.Form1.resources
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ramesh\Skills_International@\obj\Debug\Skills_International_.Properties.Resources.resources
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ramesh\Skills_International@\obj\Debug\Skills_International_.Registration_Form2.resources
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ramesh\Skills_International@\obj\Debug\Skills_International@.csproj.GenerateResource.cache
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ramesh\Skills_International@\obj\Debug\Skills_International@.csproj.CoreCompileInputs.cache
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ramesh\Skills_International@\obj\Debug\Skills_International@.exe
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ramesh\Skills_International@\obj\Debug\Skills_International@.pdb
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ramesh\Skills_International@\bin\Debug\Student.mdf
+C:\Users\CHT PRIYANKARA\Desktop\Final Project - Ramesh\Skills_International@\bin\Debug\Student_log.ldf
+E:\Final Project - Ramesh\Skills_International@\bin\Debug\Skills_International@.exe.config
+E:\Final Project - Ramesh\Skills_International@\obj\Debug\Skills_International@.exe
+E:\Final Project - Ramesh\Skills_International@\obj\Debug\Skills_International@.pdb
+E:\Final Project - Ramesh\Skills_International@\bin\Debug\Student.mdf
+E:\Final Project - Ramesh\Skills_International@\bin\Debug\Student_log.ldf
+E:\Final Project - Ramesh\Skills_International@\bin\Debug\Skills_International@.exe
+E:\Final Project - Ramesh\Skills_International@\bin\Debug\Skills_International@.pdb
+E:\Final Project - Ramesh\Skills_International@\obj\Debug\Skills_International@.csprojResolveAssemblyReference.cache
+E:\Final Project - Ramesh\Skills_International@\obj\Debug\Skills_International_.Form1.resources
+E:\Final Project - Ramesh\Skills_International@\obj\Debug\Skills_International_.Properties.Resources.resources
+E:\Final Project - Ramesh\Skills_International@\obj\Debug\Skills_International_.Registration_Form2.resources
+E:\Final Project - Ramesh\Skills_International@\obj\Debug\Skills_International@.csproj.GenerateResource.Cache
+D:\002111825\Skills_International@\bin\Debug\Student.mdf
+D:\002111825\Skills_International@\bin\Debug\Student_log.ldf
+D:\002111825\Skills_International@\bin\Debug\Skills_International@.exe.config
+D:\002111825\Skills_International@\bin\Debug\Skills_International@.exe
+D:\002111825\Skills_International@\bin\Debug\Skills_International@.pdb
+D:\002111825\Skills_International@\obj\Debug\Skills_International@.csproj.AssemblyReference.cache
+D:\002111825\Skills_International@\obj\Debug\Skills_International_.Form1.resources
+D:\002111825\Skills_International@\obj\Debug\Skills_International_.Properties.Resources.resources
+D:\002111825\Skills_International@\obj\Debug\Skills_International_.Registration_Form2.resources
+D:\002111825\Skills_International@\obj\Debug\Skills_International@.csproj.GenerateResource.cache
+D:\002111825\Skills_International@\obj\Debug\Skills_International@.csproj.CoreCompileInputs.cache
+D:\002111825\Skills_International@\obj\Debug\Skills_International@.exe
+D:\002111825\Skills_International@\obj\Debug\Skills_International@.pdb
+D:\Esoft DITEC\002111825\Skills_International@\bin\Debug\ramesh.mdf
+D:\Esoft DITEC\002111825\Skills_International@\bin\Debug\ramesh_log.ldf
+D:\Esoft DITEC\002111825\Skills_International@\bin\Debug\Student.mdf
+D:\Esoft DITEC\002111825\Skills_International@\bin\Debug\Student_log.ldf
+D:\Esoft DITEC\002111825\Skills_International@\bin\Debug\Skills_International@.exe.config
+D:\Esoft DITEC\002111825\Skills_International@\bin\Debug\Skills_International@.exe
+D:\Esoft DITEC\002111825\Skills_International@\bin\Debug\Skills_International@.pdb
+D:\Esoft DITEC\002111825\Skills_International@\obj\Debug\Skills_International@.csproj.AssemblyReference.cache
+D:\Esoft DITEC\002111825\Skills_International@\obj\Debug\Skills_International_.Form1.resources
+D:\Esoft DITEC\002111825\Skills_International@\obj\Debug\Skills_International_.Properties.Resources.resources
+D:\Esoft DITEC\002111825\Skills_International@\obj\Debug\Skills_International_.Registration_Form2.resources
+D:\Esoft DITEC\002111825\Skills_International@\obj\Debug\Skills_International@.csproj.GenerateResource.cache
+D:\Esoft DITEC\002111825\Skills_International@\obj\Debug\Skills_International@.csproj.CoreCompileInputs.cache
+D:\Esoft DITEC\002111825\Skills_International@\obj\Debug\Skills_International@.exe
+D:\Esoft DITEC\002111825\Skills_International@\obj\Debug\Skills_International@.pdb
+F:\My Campus\Esoft DITEC\002111825\Skills_International@\bin\Debug\Student.mdf
+F:\My Campus\Esoft DITEC\002111825\Skills_International@\bin\Debug\Student_log.ldf
+F:\My Campus\Esoft DITEC\002111825\Skills_International@\bin\Debug\Skills_International@.exe.config
+F:\My Campus\Esoft DITEC\002111825\Skills_International@\bin\Debug\Skills_International@.exe
+F:\My Campus\Esoft DITEC\002111825\Skills_International@\bin\Debug\Skills_International@.pdb
+F:\My Campus\Esoft DITEC\002111825\Skills_International@\obj\Debug\Skills_International@.csproj.AssemblyReference.cache
+F:\My Campus\Esoft DITEC\002111825\Skills_International@\obj\Debug\Skills_International_.Form1.resources
+F:\My Campus\Esoft DITEC\002111825\Skills_International@\obj\Debug\Skills_International_.Properties.Resources.resources
+F:\My Campus\Esoft DITEC\002111825\Skills_International@\obj\Debug\Skills_International_.Registration_Form2.resources
+F:\My Campus\Esoft DITEC\002111825\Skills_International@\obj\Debug\Skills_International@.csproj.GenerateResource.cache
+F:\My Campus\Esoft DITEC\002111825\Skills_International@\obj\Debug\Skills_International@.csproj.CoreCompileInputs.cache
+F:\My Campus\Esoft DITEC\002111825\Skills_International@\obj\Debug\Skills_International@.exe
+F:\My Campus\Esoft DITEC\002111825\Skills_International@\obj\Debug\Skills_International@.pdb
